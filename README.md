@@ -5,3 +5,11 @@
 
 # 4d-plugin-menu
 invoke standard cocoa menu
+
+## example
+
+```4d
+INVOKE MENU ACTION(Toggle Full Screen)
+```
+
+<img width="219" height="auto" alt="" src="https://github.com/user-attachments/assets/cdfd5b98-79a1-4e33-83fa-4ff6eb652e0c" />
