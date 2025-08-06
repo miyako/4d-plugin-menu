@@ -1,0 +1,4 @@
+menu/build/*
+menu/test/userPreferences.*
+menu/test/Project/DerivedData/formAttributes.json
+menu/test/Project/DerivedData/methodAttributes.json

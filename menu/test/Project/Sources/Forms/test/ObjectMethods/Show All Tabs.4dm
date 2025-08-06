@@ -1,0 +1,1 @@
+INVOKE MENU ACTION(Show All Tabs)

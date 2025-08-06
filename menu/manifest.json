@@ -1,0 +1,11 @@
+{
+    "name": "menu",
+    "id": 20000,
+    "commands": [
+        {
+            "theme": "menu",
+            "syntax": "INVOKE MENU ACTION(&L)",
+            "threadSafe": true
+        }
+    ]
+}

@@ -1,0 +1,1 @@
+INVOKE MENU ACTION(Merge All Windows)

@@ -1,0 +1,171 @@
+{
+	"$4d": {
+		"version": "1",
+		"kind": "form"
+	},
+	"windowSizingX": "variable",
+	"windowSizingY": "variable",
+	"windowMinWidth": 0,
+	"windowMinHeight": 0,
+	"windowMaxWidth": 32767,
+	"windowMaxHeight": 32767,
+	"rightMargin": 20,
+	"bottomMargin": 20,
+	"events": [
+		"onLoad",
+		"onPageChange",
+		"onValidate",
+		"onClick",
+		"onDoubleClick",
+		"onOutsideCall",
+		"onBeginDragOver",
+		"onDragOver",
+		"onDrop",
+		"onAfterKeystroke",
+		"onMenuSelect",
+		"onPluginArea",
+		"onAfterEdit",
+		"onTimer",
+		"onBoundVariableChange"
+	],
+	"windowTitle": "window title",
+	"destination": "detailScreen",
+	"pages": [
+		{
+			"objects": {}
+		},
+		{
+			"objects": {
+				"Toggle Full Screen": {
+					"type": "button",
+					"text": "Toggle Full Screen",
+					"top": 20,
+					"left": 20,
+					"width": 179,
+					"height": 26,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/Toggle Full Screen.4dm"
+				},
+				"Toggle Tab Bar": {
+					"type": "button",
+					"text": "Toggle Tab Bar",
+					"top": 60,
+					"left": 20,
+					"width": 179,
+					"height": 26,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/Toggle Tab Bar.4dm"
+				},
+				"Show All Tabs": {
+					"type": "button",
+					"text": "Show All Tabs",
+					"top": 100,
+					"left": 20,
+					"width": 179,
+					"height": 26,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/Show All Tabs.4dm"
+				},
+				"Merge All Windows": {
+					"type": "button",
+					"text": "Merge All Windows",
+					"top": 140,
+					"left": 20,
+					"width": 179,
+					"height": 26,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/Merge All Windows.4dm"
+				},
+				"Move Tab to New Window": {
+					"type": "button",
+					"text": "Move Tab to New Window",
+					"top": 180,
+					"left": 20,
+					"width": 179,
+					"height": 26,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/Move Tab to New Window.4dm"
+				},
+				"Perform Miniaturize": {
+					"type": "button",
+					"text": "Perform Miniaturize",
+					"top": 220,
+					"left": 20,
+					"width": 179,
+					"height": 26,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/Perform Miniaturize.4dm"
+				},
+				"Perform Zoom": {
+					"type": "button",
+					"text": "Perform Zoom",
+					"top": 260,
+					"left": 20,
+					"width": 179,
+					"height": 26,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/Perform Zoom.4dm"
+				},
+				"Arrange In Front": {
+					"type": "button",
+					"text": "Arrange In Front",
+					"top": 300,
+					"left": 20,
+					"width": 179,
+					"height": 26,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/Arrange In Front.4dm"
+				},
+				"Select Next Key View": {
+					"type": "button",
+					"text": "Select Next Key View",
+					"top": 340,
+					"left": 20,
+					"width": 179,
+					"height": 26,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/Select Next Key View.4dm"
+				},
+				"Select Previous Key View": {
+					"type": "button",
+					"text": "Select Previous Key View",
+					"top": 380,
+					"left": 20,
+					"width": 179,
+					"height": 26,
+					"events": [
+						"onClick"
+					],
+					"method": "ObjectMethods/Select Previous Key View.4dm"
+				}
+			}
+		}
+	],
+	"menuBar": "Barre #1",
+	"geometryStamp": 27,
+	"editor": {
+		"activeView": "View 1",
+		"defaultView": "View 1",
+		"views": {
+			"View 1": {}
+		}
+	}
+}
