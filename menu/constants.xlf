@@ -58,7 +58,7 @@
             <source>Select Next Tab</source>
         </trans-unit>
         <trans-unit d4:value="17" id="F58A646121BD4C0F823EA81268A1D05C.17">
-            <source>SelectPreviousTab</source>
+            <source>Select Previous Tab</source>
         </trans-unit>
     </group>
 </xliff>
