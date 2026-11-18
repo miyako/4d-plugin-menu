@@ -1,4 +1,10 @@
-menu/build/*
-menu/test/userPreferences.*
-menu/test/Project/DerivedData/formAttributes.json
-menu/test/Project/DerivedData/methodAttributes.json
+.DS_Store
+build/
+test/Data/Logs/
+test/userPreferences.*
+test/Project/DerivedData/formAttributes.json
+test/Project/DerivedData/methodAttributes.json
+menu.dmg
+menu.zip
+test/Plugins/menu.bundle/Contents/MacOS/menu
+test/Plugins/menu.bundle/Contents/_CodeSignature/
