@@ -93,13 +93,13 @@ static void INVOKE_MENU_ACTION(PA_PluginParameters params) {
             InvokeMenuAction(@selector(selectPreviousKeyView:));
             break;
         case 13:
-            InvokeMenuAction(@selector(newTab:));
+            InvokeMenuAction(NSSelectorFromString(@"newTab:"));
             break;
         case 14:
             InvokeMenuAction(@selector(newWindowForTab:));
             break;
         case 15:
-            InvokeMenuAction(@selector(closeTab:));
+            InvokeMenuAction(NSSelectorFromString(@"closeTab:"));
             break;
         case 16:
             InvokeMenuAction(@selector(selectNextTab:));
